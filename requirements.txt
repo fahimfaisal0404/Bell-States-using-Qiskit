@@ -1,0 +1,7 @@
+# install the required packages.
+
+  - qiskit
+  - qiskit-aer
+  - qiskit-ibm-runtime
+  - matplotlib
+  - pylatexenc
