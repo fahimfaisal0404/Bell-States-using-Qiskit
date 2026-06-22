@@ -5,4 +5,8 @@ The circuits are executed on:
     - AerSimulator 
     - IBM Quantum Hardware  
     
-Bell States: - Φ⁺ (Phi Plus), - Φ⁻ (Phi Minus), - Ψ⁺ (Psi Plus) & - Ψ⁻ (Psi Minus)
+Bell States: 
+        - Φ⁺ (Phi Plus), 
+        - Φ⁻ (Phi Minus), 
+        - Ψ⁺ (Psi Plus) & 
+        - Ψ⁻ (Psi Minus)
