@@ -48,7 +48,7 @@ This project demonstrates the generation and measurement of the four Bell states
 - IBM Quantum Runtime
 
 ## Installation
-pip install -r requirements.txt
+will be uploaded soon.
 
 
 
