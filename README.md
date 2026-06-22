@@ -4,6 +4,9 @@ This project demonstrates the generation and measurement of the four Bell states
 ### The circuits are executed on: 
     - AerSimulator 
     - IBM Quantum Hardware  
+## Theory 
+    1. https://www.youtube.com/watch?v=XTw6Mgu3F9A&list=PLAp-VUNhIcBm40hRgg7LKTo8xCkJII3pY&index=11&t=5s
+    2. https://www.youtube.com/watch?v=3HiYm9SB-xU&list=PLAp-VUNhIcBm40hRgg7LKTo8xCkJII3pY&index=22
     
 ### Bell States: 
         - Φ⁺ (Phi Plus), 
