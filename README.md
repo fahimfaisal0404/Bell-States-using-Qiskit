@@ -11,16 +11,17 @@ This project demonstrates the generation and measurement of the four Bell states
         - Ψ⁺ (Psi Plus) & 
         - Ψ⁻ (Psi Minus)
 
-## phi Plus Circuit
+## Circuit Diagrams
+### phi Plus Circuit
 <img width="343" height="170" alt="image" src="https://github.com/user-attachments/assets/8af002e7-b93b-4580-98d1-890237ee136b" />
 
-## phi Minus Circuit
+### phi Minus Circuit
 <img width="389" height="167" alt="image" src="https://github.com/user-attachments/assets/126c0e69-11cb-4124-98ed-b8c2d48beb9a" />
 
-## psi-plus Circuit
+### psi-plus Circuit
 <img width="388" height="172" alt="image" src="https://github.com/user-attachments/assets/b775ef11-7f45-4722-8065-0f131d241eba" />
 
-## psi-minus Circuit
+### psi-minus Circuit
 <img width="389" height="175" alt="image" src="https://github.com/user-attachments/assets/e950cbb5-e6d8-4f1e-b38d-8d1de1e19202" />
 
 ## Measurement Results
